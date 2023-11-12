@@ -1,1 +1,2 @@
 echo "please build the job"
+echo "Please test the job on Dev env"
